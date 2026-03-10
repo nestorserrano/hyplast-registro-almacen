@@ -70,17 +70,12 @@ npm run build
 php artisan migrate
 ```
 
-## Acceso Móvil
-```
-https://hyplast.com/warehouse/mobile
-```
-
 ## Uso
-1. Abrir app en el móvil
-2. Permitir acceso a la cámara
-3. Apuntar a código de barras
-4. Confirmar lectura
-5. Registrar movimiento
+1. Acceder al sistema web
+2. Navegar al módulo de almacén
+3. Escanear códigos de barras
+4. Registrar movimientos
+5. Consultar ubicaciones
 
 ## Autor y Propietario
 **Néstor Serrano**  
